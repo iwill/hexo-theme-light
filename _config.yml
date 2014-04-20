@@ -1,6 +1,7 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
 
 widgets:
 - search
@@ -17,10 +18,10 @@ twitter:
 addthis:
   enable: true
   pubid:
-  facebook: true
-  twitter: true
-  google: true
-  pinterest: true
+  facebook: false
+  twitter: false
+  google: false
+  pinterest: false
 
 fancybox: true
 
@@ -34,3 +35,4 @@ facebook:
   comment_count: 5
   comment_width: 840
   comment_colorscheme: light
+
